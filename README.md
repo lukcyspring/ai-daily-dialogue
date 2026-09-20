@@ -12,6 +12,15 @@
 - 批判性提问优化：前提检查、反证、替代解释、证据质量与持续纠错。
 - 提供“对话中途校准”提示词。
 - 支持手机和桌面布局。
+- 高质量提问方法库：10 项研究方法、8 项 GitHub 教程技巧，附来源、适用限制与修改前后示例，可复制或应用到当前问题。
+
+## 教程来源
+
+教程技巧为本站中文改写，属于实践建议，不等于实验结论或效果排名。资料核对日期：2026-09-20。
+
+- [Anthropic 官方交互教程](https://github.com/anthropics/prompt-eng-interactive-tutorial)：角色、材料与指令分隔等；旧模型示例需在当前模型验证。
+- [Microsoft 提示工程基础课](https://github.com/microsoft/generative-ai-for-beginners/blob/main/04-prompt-engineering-fundamentals/README.md)与[进阶课](https://github.com/microsoft/generative-ai-for-beginners/blob/main/05-advanced-prompts/README.md)：任务拆分、示例、反馈修订、迭代验证。
+- [DAIR.AI 入门指南](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-intro.md)：清晰指令、具体标准、从简单提示开始试验。
 
 网页在本地组合提示词，未调用 AI API。复制问题后，可打开 ChatGPT 粘贴发送。提示词不能保证 AI 始终保持独立判断。
 
